@@ -1,0 +1,14 @@
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\bin\Debug\net8.0\CassettaDiSicurezza.exe
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\bin\Debug\net8.0\CassettaDiSicurezza.deps.json
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\bin\Debug\net8.0\CassettaDiSicurezza.runtimeconfig.json
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\bin\Debug\net8.0\CassettaDiSicurezza.dll
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\bin\Debug\net8.0\CassettaDiSicurezza.pdb
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.AssemblyInfoInputs.cache
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.AssemblyInfo.cs
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.dll
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\refint\CassettaDiSicurezza.dll
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.pdb
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\CassettaDiSicurezza.genruntimeconfig.cache
+C:\Users\DAVIDE\Desktop\CassettaDiSicurezza\CassettaDiSicurezza\obj\Debug\net8.0\ref\CassettaDiSicurezza.dll
